@@ -1,4 +1,4 @@
-# Solar Panel Dust Detection 
+# Solar Panel Dust Detection
 
 Binary image classifier that distinguishes **Clean** from **Dusty** solar panel surfaces. Two architectures were trained and compared — a custom CNN and a MobileNetV3Small transfer learning model — with the best checkpoint deployed as a Streamlit web app.
 
